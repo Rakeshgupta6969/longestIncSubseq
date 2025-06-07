@@ -1,1 +1,2 @@
 # longestIncSubseq
+// simple solution
